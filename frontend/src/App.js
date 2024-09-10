@@ -8,7 +8,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { useEffect, useState } from 'react';
 import SummaryApi from './common';
 import Context from './context';
-import { useDispatch } from 'react-redux';
+import { useDispatch } from 'react-redux'
 import { setUserDetails } from './store/userSlice';
 
 function App() {
