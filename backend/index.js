@@ -11,6 +11,7 @@ const app = express();
 const allowedOrigins = [
   'https://ecommerce-app-flax-mu.vercel.app',  
   'https://ecommerce-k8gq6kxbs-mohammad-yameens-projects.vercel.app', 
+  'https://ecommerce-l91dskjm0-mohammad-yameens-projects.vercel.app', 
   process.env.FRONTEND_URL                     
 ];
 
