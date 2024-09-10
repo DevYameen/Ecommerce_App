@@ -33,7 +33,7 @@ const Login = () => {
 
         const dataResponse = await fetch(SummaryApi.signIn.url,{
             method : SummaryApi.signIn.method,
-            credentials : 'include',
+            //credentials : 'include',
             headers : {
                 "content-type" : "application/json"
             },
@@ -71,7 +71,7 @@ const Login = () => {
                             <div className='bg-slate-100 p-2'>
                                 <input 
                                     type='email' 
-                                    placeholder='enter email' 
+                                    placeholder='Enter email' 
                                     name='email'
                                     value={data.email}
                                     onChange={handleOnChange}
@@ -84,7 +84,7 @@ const Login = () => {
                             <div className='bg-slate-100 p-2 flex'>
                                 <input 
                                     type={showPassword ? "text" : "password"} 
-                                    placeholder='enter password'
+                                    placeholder='Enter password'
                                     value={data.password}
                                     name='password' 
                                     onChange={handleOnChange}
