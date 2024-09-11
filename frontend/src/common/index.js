@@ -1,4 +1,4 @@
-const backendDomin = process.env.REACT_APP_BACKEND_DOMAIN;
+const backendDomin = process.env.REACT_APP_BACKEND_URL;
 
 
 const SummaryApi = {
