@@ -40,4 +40,27 @@ Make sure you have the following installed:
 - [MongoDB](https://www.mongodb.com/)
 - [Cloudinary Account](https://cloudinary.com/)
 
+# 🖼️ Live Demo
 
+Visit the live version of Karam Industry Query Management System by clicking the link below:
+
+👉 [Live Demo](https://ecommerce-app-flax-mu.vercel.app/)
+
+
+
+## 🤝 Contributing
+
+ We welcome contributions from the community! Here’s how you can contribute:
+
+## Fork the repository.
+ Create a new branch: git checkout -b feature-name.
+ Make your changes and commit them: git commit -m "Add feature XYZ".
+ Push to your branch: git push origin feature-name.
+ Submit a pull request.
+ We’ll review your changes and get them merged in!
+
+## 🛡️ License
+ This project is licensed under the MIT License. Check the LICENSE file for more details.
+
+## 🙏 Thanks for using YAM E-Commerce
+ Enjoy the seamless experience and help us improve by contributing or reporting any issues. 💬
